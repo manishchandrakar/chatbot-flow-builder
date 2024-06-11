@@ -1,0 +1,11 @@
+.flow-builder {
+  display: flex;
+  height: 100vh;
+}
+
+.react-flow-wrapper {
+  flex-grow: 1;
+  height: 100%;
+  border: 1px solid #ddd;
+  display: flex;
+}

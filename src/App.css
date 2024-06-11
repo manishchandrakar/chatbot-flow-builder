@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+}
+
+.flow-builder {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.nodes-panel, .settings-panel {
+  background: #f0f0f0;
+  padding: 10px;
+}
+
+.nodes-panel .node, .settings-panel input {
+  cursor: pointer;
+  padding: 5px;
+  margin: 5px;
+  border: 1px solid #ccc;
+  background: #fff;
+}
+
+button {
+  margin-top: 10px;
+  padding: 10px;
+  cursor: pointer;
+}

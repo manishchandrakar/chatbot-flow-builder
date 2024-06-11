@@ -1,0 +1,14 @@
+.nodes-panel {
+  width: 200px;
+  padding: 10px;
+  background: #f4f4f4;
+  border-right: 1px solid #ddd;
+}
+
+.node {
+  padding: 10px;
+  margin-bottom: 5px;
+  background: #fff;
+  border: 1px solid #ddd;
+  cursor: pointer;
+}
